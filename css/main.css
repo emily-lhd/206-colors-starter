@@ -21,7 +21,7 @@ html, body {
 header {
   height: 300px;
   width: 100%;
-  background: #e3e3e3;
+  background-color: lavenderblush;
 }
 
 
@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background-color: mistyrose;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background-color: lightpink;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background-color: palevioletred;
 }
 
 
@@ -78,7 +78,7 @@ footer {
   footer {
     background-color: ;
   }
-  
+
 }
 
 
@@ -103,5 +103,5 @@ footer {
   footer {
     background-color: ;
   }
-   
+
 }
